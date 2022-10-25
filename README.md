@@ -1,2 +1,2 @@
-# statistical_analysis
+# Statistical analysis tasks
 Checking various statistics
